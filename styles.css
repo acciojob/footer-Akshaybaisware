@@ -1,1 +1,21 @@
 /* your code here */
+body{
+	background-color:black;
+}
+.media-icons a{
+	color:white;
+	display:flex;
+	justify-content:space-between;
+}
+.logo_name{
+	color:white;
+	font-size:25px;
+}
+.media-icons{
+	display:flex;
+	flex-direction:row;
+	color:white; 
+}
+.top{
+	
+}
