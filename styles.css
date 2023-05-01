@@ -8,16 +8,16 @@
 footer{
     background-color: black;
 color: white;
-font-family: sans-serif;
+font-family:sans-serif ;
 display: flex;
 flex-direction:column;
 padding-top:1rem;
 }
 .top{
     display: flex;
-justify-content: space-between;
+justify-content:space-between;
 padding:1rem 1.3rem;
-/* border:2px solid white; */
+ border:2px solid white;
 text-align: center;
 }
 .top .logo_name{
@@ -27,21 +27,23 @@ text-align: center;
     display: flex;
 justify-content: space-evenly;
 width: 378px;
+
+
 }
 .top .media-icons>a{
     text-decoration: none;
 }
 .media-icons img{
-    width:50px;
-height:45px;
+   width:50px;
+ height:45px;
 }
 
 /* link-boxes------------- */
 
 .link-boxes{
  display: flex;
-/* justify-content: space-evenly; */
-justify-content: space-around;
+ /*justify-content: space-evenly; */
+/*justify-content: space-around;
 margin:2rem 0;
 }
 .link-boxes>div{
@@ -70,11 +72,11 @@ li a{
     padding:1.5rem 2rem;
     text-align: center;
     /* background-color:rgb(99, 114, 129); */
-    background-color:rgb(81, 96, 111);
+    /*background-color:rgb(81, 96, 111);
    
 }
 .bottom-details>h5{
     color:rgba(247, 245, 245, 0.748);
     font-size:1rem;
     font-weight:300;
-}
+}*/
